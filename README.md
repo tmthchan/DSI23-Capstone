@@ -1,5 +1,4 @@
-![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
-# Capstone Project: Generating Kafka - Text Generation using NLP
+![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)# Capstone Project: Generating Kafka - Text Generation using NLP
 
 ## Executive Summary
 Literature is an important part of our education, it influences us and makes us understand other walks of life. Narratives, in particular, inspire empathy and give people a new perspective on their lives and that of others. However, creating stories requires a great amount of effort to brainstorm and produce. What if we could use a language model to understand writing patterns and create new stories. This could help us generate new ideas and aid in the creative process for a new piece of work. With the text generation model, a body of text can be produced from just a few lines of input text. 
