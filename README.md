@@ -55,13 +55,7 @@ ROUGE-1 will measure the match-rate of unigrams between the model output and ref
 Recall counts the number of overlapping n-grams found in both the model output and reference then divides this number by the total number of n-grams in the reference. This shows how well the output text relates to the reference text. The precision metric is calculated by dividing the number of overlapping n-grams found in the output text and the reference text by the output n-gram count. This gives a score relative to the output text rather than the reference. The f1 score is calculated using the recall and precision scores to give an overall score. 
 
 ## 3. Data Sources & Dictionary
-|Feature|Type|Dataset|Description|
-|---|---|---|---|
-|**subreddit**|*object*|data|This shows the subreddit that a post belongs to.| 
-|**selftext**|*object*|data|This is the body of text in the subreddit post.| 
-|**title**|*object*|data|This is the title of the subreddit post.|
-|**created_utc**|*int64*|data|This is the date and time in UTC format that the post was posted on the subreddit.|
-|**posttext**|*object*|data|This is combination of all the text in the title and body of each post.|
+
 
 ## 4. Results & Analysis
 
