@@ -57,13 +57,13 @@ Recall counts the number of overlapping n-grams found in both the model output a
 ## 3. Data Sources & Dictionary
 |Dataset|Description|
 |---|---|
-|meta_text|This is the full english translated text of "Metamorphosis" by Frank Kafka taken from Project Gutenberg.|
+|meta_text|This is the full english translated text of "The Metamorphosis" by Frank Kafka taken from Project Gutenberg.|
 |castle_text|This is a small portion of text taken from The Castle by Frank Kafka.|
 |kots_text|This is a small portion of text taken from Kafka on the Shore by Haruki Murakami.|
-|Text_Sequences_50_meta|This is a dataset of 50 word sequences processed from "Metamorphosis"|
+|Text_Sequences_50_meta|This is a dataset of 50 word sequences processed from "The Metamorphosis"|
 |Text_Sequences_50_castle|This is a dataset of 50 word sequences processed from "The Castle"|
 |Text_Sequences_50_kots|This is a dataset of 50 word sequences processed from "Kafka on the Shore"|
-|Text_Sequences_100_meta|This is a dataset of 100 word sequences processed from "Metamorphosis"|
+|Text_Sequences_100_meta|This is a dataset of 100 word sequences processed from "The Metamorphosis"|
 |Text_Sequences_100_castle|This is a dataset of 100 word sequences processed from "The Castle"|
 |Text_Sequences_100_kots|This is a dataset of 100 word sequences processed from "Kafka on the Shore"|
 
